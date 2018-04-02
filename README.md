@@ -16,7 +16,7 @@ $ cd /Projects
 $ git clone git@github.com:econri/05-01-mongo-mongoose.git
 ```
 
-3. Установить зависимости и запустить
+4. Установить зависимости и запустить
 
 В консоли/терминале:
 
